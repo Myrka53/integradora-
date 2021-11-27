@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>ADOPCION</title>
+
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-info">
+<div class="container-fluid">
+<a href="#" class="navbar-brand">
+  <img src="../img/MAG.jpeg" alt="" width="100px">
+</a>
+
+<button class="navbar-toggler" type="button"  
+data-bs-toggle="collapse" 
+data-bs-target="#navbarNavAltMarkup"
+aria-controls="navbarNavAltMarkup"
+aria-expanded="false"
+aria-label="Toggle navigation"
+ >
+  <span class="navbar-toggler-icon"></span> 
+</button>
+<div class="collapse navbar-collapse" id="navbarNavAltMarkup"> 
+
+  <div class="navbar-nav">
+  <ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link" href="#">inicio</a>
+  </li>
+<li>
+
+<a class="nav-link" href="Nosotros.php">Nosotros</a> 
+
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Nuestros perros</a>
+    <ul class="dropdown-menu">
+      <li><a class="dropdown-item" href="Adopcion.php">Adopcion</a></li>
+      <li><a class="dropdown-item" href="HistPERROS.php">Historia del perro</a></li>
+  </li>
+</ul>
+  
+  <li class="nav-item">
+    <a class="nav-link">Contacto</a>
+  </li>
+</ul>
+  </div>
+  </div>
+</div>
+
+    </div>
+  </nav>
+  <br>
+  </div>
+
+</div>
+<!--PRIMERA PARTE DE LOS PERROS PARA ADOPTAR--->
+     <center><div class="card-group" >
+  <div class="card">
+    <img src="../img/perro prueba.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">BANANA</h5>
+      <p class="card-text">Banana es una perrita salchicha legítima que andaba vagando por las calles. Suponemos que tenía dueño y se perdió.</p>
+    <a href="#" class="btn btn-primary">ADOPTAR</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/Cachito.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">CACHITO</h5>
+      <p class="card-text">Cuando llegué a MAG, había una caja cerrada en la puerta, con una carta dirigida a nosotros. Dentro había una cachorrita. 
+        En esa carta, decían que "no la podían atender".</p>
+      <a href="#" class="btn btn-primary">ADOPTAR </a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/Turbo.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">TURBO</h5>
+      <p class="card-text">Recibimos el reporte de un perro que estaba tirado en la calle, entre los árboles, sangrando del cuerpo y no se podía mover.</p>
+      <a href="#" class="btn btn-primary">ADOPTAR </a> 
+    </div>
+</div>
+      <div class="card">
+    <img src="../img/Dolly.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">DOLLY</h5>
+      <p class="card-text">es muy cariñoso, le gusta que lo carguemos y ladrarle a los otros perros. Se vuelve loco cuando ve los sobres de comida. Además le gusta posar para las foto.</p>
+      <a href="#" class="btn btn-primary">ADOPTAR </a> </center>
+    </div>
+  </div>
+</div>
+  <!-- SEGUNDA PARTE DE LOS PERROS QUE SE VAN ADOPTAR--->
+  <br>
+<center><div class="card-group" >
+  <div class="card">
+    <img src="../img/Tallarin.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">TALLARIN</h5>
+      <p class="card-text">Cuando llegamos a esa casa, lo que encontramos fue terrible. Un perrito chihuahua, amarrado a un tubo abajo de una mesa, paralítico, golpeado, en los huesos, deshidratado, quemado, abusado. .</p>
+    <a href="#" class="btn btn-primary">ADOPTAR </a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/Pirata.png" class="card-img-top "  alt="...">
+    <div class="card-body">
+      <h5 class="card-title">PIRATA</h5>
+      <p class="card-text">Pirata no se salvó de una vida cruel en la calle. Tampoco de sufrir por no comer ni tener dónde protegerse del frío y el calor, fue atropellada y le lesionaron tanto la patita que hubo que amputársela. Ahora Pirata es muy alegre y muy juguetona. Se lleva muy bien con todos los perros chiquitos..</p>
+      <a href="#" class="btn btn-primary">ADOPTAR </a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="../img/Ruby.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">RUBY</h5>
+      <p class="card-text">Ella es una perrita con una gran personalidad, sabe lo que quiere y no duda en pedirlo así nos tenga que morder para que le hagamos caso.</p>
+      <a href="#" class="btn btn-primary">ADOPTAR </a> 
+    </div>
+</div>
+      <div class="card">
+    <img src="../img/Capitan Garfio.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">CAPITAN GARFIO</h5>
+      <p class="card-text">Lo encontramos en la carretera con un orificio en el cráneo, una fractura en la pata delantera que ya tenía necrosada, amarradas las patas traseras y con múltiples golpes. Al revisarlo nos dimos cuenta que fue torturado y milagrosamente sobrevivió.</p>
+      <a href="#" class="btn btn-primary">ADOPTAR </a> </center>
+    </div>
+  </div>
+</div>
+
+<br>
+mm
+<nav aria-label="Page navigation example">
+  <ul  class= "pagination pagination-lg  justify-content-center" >
+    
+    <li class="page-item"><a class="page-link" href="Perros1.php">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="#">Next</a>
+    </li>
+  </ul>
+</nav>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script> 
+</body>
+</html>
